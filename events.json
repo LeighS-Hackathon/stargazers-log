@@ -1,0 +1,34 @@
+[
+  {
+    "name": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "stars": 32400,
+    "url": "https://github.com/public-apis/public-apis"
+  },
+  {
+    "name": "30-seconds-of-code",
+    "owner": "30-seconds",
+    "description": "Short code snippets for all your development needs.",
+    "language": "JavaScript",
+    "stars": 127000,
+    "url": "https://github.com/30-seconds/30-seconds-of-code"
+  },
+  {
+    "name": "awesome-selfhosted",
+    "owner": "awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers.",
+    "language": "",
+    "stars": 24700,
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+  },
+  {
+    "name": "the-art-of-command-line",
+    "owner": "jlevy",
+    "description": "Master the command line, in one page.",
+    "language": "Shell",
+    "stars": 150000,
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  }
+]
